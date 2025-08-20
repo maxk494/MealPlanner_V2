@@ -1,5 +1,4 @@
 import streamlit as st
-import pyperclip
 from daten import load_recipes
 from rezepte import overview_rezepte
 from zubereitung import detailview_rezepte
@@ -31,10 +30,9 @@ def main():
             if st.button("Einkaufsliste erstellen"):
                 selected_recipe_keys = [key for key in st.session_state if key.startswith('recipe_') and st.session_state[key]]
                 shopping_list = create_shopping_list(recipes, selected_recipe_keys)
-                pyperclip.copy(shopping_list)
-                st.success("Die Einkaufsliste wurde in die Zwischenablage kopiert und kann in deiner Notizen-App eingefügt werden!")
                 st.code(shopping_list)
-    
+                st.success("Kopiere die Einkaufsliste und füge sie in deine Notizen-App ein!")
+
     # Detailansicht Rezepte
     # -----
     else:

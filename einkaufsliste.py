@@ -28,3 +28,5 @@ def create_shopping_list(recipes, selected_recipe_keys):
         shopping_text += f" {ingredient}: {amount}\n"
     
     return shopping_text
+
+
