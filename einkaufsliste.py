@@ -1,4 +1,4 @@
-def create_shopping_list(recipes, selected_recipe_keys):
+def create_shopping_list(recipes, selected_recipe_keys, anzahl_personen):
     # Initialize a dictionary to aggregate ingredients
     shopping_list = {}
     
@@ -8,22 +8,17 @@ def create_shopping_list(recipes, selected_recipe_keys):
     # Aggregate ingredients
     for recipe in selected_recipes:
         for ingredient, amount in recipe["Zutaten und Mengen"].items():
+            amount, unit = amount.split()
+            amount = int(amount) * anzahl_personen
             if ingredient in shopping_list:
-                # If ingredient exists, try to add the amounts
-                try:
-                    # Extract numbers from strings like "200 g" -> 200
-                    current_quantity = float(''.join(filter(str.isdigit, shopping_list[ingredient])))
-                    additional_quantity = float(''.join(filter(str.isdigit, amount)))
-                    shopping_list[ingredient] = f"{int(current_quantity + additional_quantity)} {amount.split()[-1] if len(amount.split()) > 1 else ''}"
-                except:
-                    # If can't add numerically, just append
-                    shopping_list[ingredient] = f"{shopping_list[ingredient]}, {amount}"
+                current_quantity = int(shopping_list[ingredient].split()[0])
+                shopping_list[ingredient] = f"{int(current_quantity + amount)} {unit}"
             else:
-                shopping_list[ingredient] = amount
+                shopping_list[ingredient] = f'{amount} {unit}'
     
     # Format the shopping list as text
-    shopping_text = "Einkaufsliste\n"
-    shopping_text += "="*15 + "\n"
+    shopping_text = f"Einkaufsliste für {anzahl_personen} Personen\n"
+    shopping_text += "="*30 + "\n"
     for ingredient, amount in shopping_list.items():
         shopping_text += f" {ingredient}: {amount}\n"
     

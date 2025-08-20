@@ -17,6 +17,21 @@ def overview_rezepte(recipes, selected_ids):
             }
             .st-emotion-cache-r44huj {
                 font-size: .8rem;
+                text-align: center;
+            }
+            .st-emotion-cache-162xg8y {
+                display: None;
+            }
+            .st-emotion-cache-1k5fi8b {
+                display: None;
+            }
+            .st-emotion-cache-1py5frv {
+                height: auto;
+                width: 70px;
+            }
+            #number_input_1 {
+                padding: 0px;
+                text-align: center;
             }
             @media (max-width: 640px) {
                 .st-emotion-cache-13b5x70 {
@@ -25,12 +40,15 @@ def overview_rezepte(recipes, selected_ids):
                 .st-emotion-cache-3writm {
                     min-width: calc(10% - 1.5rem);
                 }
+                .st-emotion-cache-106pc2n {
+                    min-width: calc(30% - 1.5rem);
+                }
             }
         </style>
         ''', unsafe_allow_html=True)
 
     # Überschrift
-    st.markdown('<h1 style="font-size: 1.5rem; margin-bottom: 1rem; padding: 0px">🍲 Rezepte</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 style="font-size: 1.5rem; margin-bottom: 1rem; padding: 0px">🍲 Top10 Rezepte</h1>', unsafe_allow_html=True)
     
     # Auflistung Rezepte mit Checkbox
     with st.container():
