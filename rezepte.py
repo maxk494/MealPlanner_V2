@@ -29,6 +29,9 @@ def overview_rezepte(recipes, selected_ids):
                 height: auto;
                 width: 70px;
             }
+            #top10-rezepte {
+                text-align: left;
+            }
             #number_input_1 {
                 padding: 0px;
                 text-align: center;

@@ -15,7 +15,7 @@ st.set_page_config(
 def main():    
     # Load recipes
     recipes = load_recipes()
-    data_quality(recipes)
+    data_quality()
     selected_ids = []    
 
     # Übersicht Rezepte
@@ -37,8 +37,8 @@ def main():
             if st.button("Einkaufsliste erstellen"):
                 selected_recipe_keys = [key for key in st.session_state if key.startswith('recipe_') and st.session_state[key]]
                 shopping_list = create_shopping_list(recipes, selected_recipe_keys, st.session_state.number_of_people)
-                st.code(shopping_list)
                 st.success("Kopiere die Einkaufsliste und füge sie in deine Notizen-App ein!")
+                st.code(shopping_list)
 
     # Detailansicht Rezepte
     # -----

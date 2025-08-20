@@ -11,7 +11,7 @@ def load_recipes():
     
     return recipes
 
-def data_quality(recipes):
+def data_quality():
     recipes = load_recipes()
 
     # Test 1: Alle Zutaten sollten die gleiche Einheit haben
