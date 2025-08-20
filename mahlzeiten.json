@@ -1,0 +1,175 @@
+[
+  {
+    "Rezeptname": "Kichererbsen-Bowl mit Quinoa",
+    "Zubereitung": "Quinoa in leicht gesalzenem Wasser 15 Min. kochen. In einer Pfanne Kichererbsen zusammen mit Babyspinat, Tomaten und Oliven in etwas Öl 10 Min. anbraten. Anschließend den Quark unterheben und alles mit dem gekochten Quinoa servieren.",
+    "Kalorien": 630,
+    "Fett": 18,
+    "Kohlenhydrate": 70,
+    "Proteine": 32,
+    "Zutaten und Mengen": {
+      "Quinoa": "70 g",
+      "Kichererbsen": "150 g",
+      "Babyspinat": "50 g",
+      "Cocktailtomaten": "80 g",
+      "Oliven (entsteint)": "20 g",
+      "Magerquark": "80 g"
+    }
+  },
+  {
+    "Rezeptname": "Ofengemüse mit Linsen und Feta",
+    "Zubereitung": "Paprika, Zucchini, Karotte, Rote Bete und Linsen mit Öl mischen und im Backofen bei 180 °C 20 Min. garen. Danach den zerbröselten Feta untermischen und warm servieren.",
+    "Kalorien": 570,
+    "Fett": 16,
+    "Kohlenhydrate": 62,
+    "Proteine": 28,
+    "Zutaten und Mengen": {
+      "rote Linsen": "70 g",
+      "Paprika": "1 Stk",
+      "Zucchini": "80 g",
+      "Karotte": "80 g",
+      "Rote Bete": "60 g",
+      "Feta": "50 g"
+    }
+  },
+  {
+    "Rezeptname": "Lachsfilet auf Süßkartoffel-Wedges",
+    "Zubereitung": "Süßkartoffeln in Spalten schneiden, mit Öl und Zitronensaft beträufeln. Zusammen mit dem Lachsfilet auf ein Blech legen und bei 180 °C 25 Min. backen. Direkt servieren.",
+    "Kalorien": 560,
+    "Fett": 22,
+    "Kohlenhydrate": 44,
+    "Proteine": 40,
+    "Zutaten und Mengen": {
+      "Lachsfilet": "150 g",
+      "Süßkartoffel": "200 g",
+      "Zitronensaft": "1 EL"
+    }
+  },
+  {
+    "Rezeptname": "Tofu-Gemüse-Pfanne mit Erdnusssauce",
+    "Zubereitung": "Tofu in Würfel schneiden und mit Brokkoli, Karotte und Paprika in Sesamöl 10 Min. anbraten. Mit einer Sauce aus Erdnussmus, Sojasauce und Wasser ablöschen. Mit Reis servieren.",
+    "Kalorien": 620,
+    "Fett": 25,
+    "Kohlenhydrate": 55,
+    "Proteine": 28,
+    "Zutaten und Mengen": {
+      "Naturtofu": "120 g",
+      "Brokkoli": "80 g",
+      "Karotte": "80 g",
+      "Paprika": "1 Stk",
+      "Erdnussmus": "20 g",
+      "Sojasauce": "1 EL",
+      "Sesamöl": "1 TL",
+      "Vollkornreis": "60 g"
+    }
+  },
+  {
+    "Rezeptname": "Thunfisch-Quinoasalat",
+    "Zubereitung": "Quinoa 15 Min. in Wasser kochen und abkühlen lassen. Thunfisch abtropfen, zusammen mit Mais, Tomaten und Avocado unterheben. Mit Öl beträufeln und servieren.",
+    "Kalorien": 540,
+    "Fett": 12,
+    "Kohlenhydrate": 55,
+    "Proteine": 41,
+    "Zutaten und Mengen": {
+      "Thunfisch (im eigenen Saft)": "100 g",
+      "Quinoa": "70 g",
+      "Mais": "50 g",
+      "Kirschtomaten": "80 g",
+      "Avocado": "50 g"
+    }
+  },
+  {
+    "Rezeptname": "Hähnchenbrust auf Beluga-Linsensalat",
+    "Zubereitung": "Hähnchenbrust in einer Pfanne mit Öl 10 Min. braten. Belugalinsen ca. 20 Min. köcheln lassen, anschließend mit Karotten, Rucola und Tomaten vermischen. Mit dem Hähnchen servieren.",
+    "Kalorien": 590,
+    "Fett": 14,
+    "Kohlenhydrate": 47,
+    "Proteine": 56,
+    "Zutaten und Mengen": {
+      "Hähnchenbrust": "140 g",
+      "Belugalinsen": "70 g",
+      "Karotte": "80 g",
+      "Rucola": "40 g",
+      "Kirschtomaten": "80 g"
+    }
+  },
+  {
+    "Rezeptname": "Vegetarische Chili sin Carne",
+    "Zubereitung": "Karotten und Paprika klein schneiden, in Öl 5 Min. andünsten. Anschließend Bohnen, Mais und Tomaten hinzufügen und alles 20 Min. köcheln lassen. Mit Reis servieren.",
+    "Kalorien": 520,
+    "Fett": 10,
+    "Kohlenhydrate": 68,
+    "Proteine": 21,
+    "Zutaten und Mengen": {
+      "Kidneybohnen": "120 g",
+      "Mais": "60 g",
+      "Karotte": "80 g",
+      "Paprika": "1 Stk",
+      "Tomaten (stückig)": "200 g",
+      "Reis": "50 g"
+    }
+  },
+  {
+    "Rezeptname": "Tempeh-Bowl mit Avocado & Reis",
+    "Zubereitung": "Reis 15 Min. kochen. Tempeh mit Brokkoli und Möhren in Sesamöl 10 Min. anbraten. Alles zusammen in einer Bowl mit Avocado anrichten.",
+    "Kalorien": 670,
+    "Fett": 22,
+    "Kohlenhydrate": 75,
+    "Proteine": 31,
+    "Zutaten und Mengen": {
+      "Tempeh": "100 g",
+      "Avocado": "50 g",
+      "Brokkoli": "60 g",
+      "Möhren": "60 g",
+      "Vollkornreis": "70 g",
+      "Sesamöl": "1 TL"
+    }
+  },
+  {
+    "Rezeptname": "Quark-Pasta mit Spinat und Walnüssen",
+    "Zubereitung": "Vollkornnudeln 10 Min. kochen. Spinat in Öl 5 Min. anbraten, dann mit Quark vermischen. Nudeln abgießen, mit der Mischung kombinieren und mit gehackten Walnüssen bestreuen.",
+    "Kalorien": 600,
+    "Fett": 17,
+    "Kohlenhydrate": 77,
+    "Proteine": 31,
+    "Zutaten und Mengen": {
+      "Vollkornnudeln": "85 g",
+      "Magerquark": "80 g",
+      "frischer Spinat": "60 g",
+      "Walnüsse": "15 g"
+    }
+  },
+  {
+    "Rezeptname": "Gemüse mit Hähnchen und Couscous",
+    "Zubereitung": "Hähnchenbrust in etwas Öl 10 Min. anbraten. Gemüse klein schneiden und mit Couscous in heißem Wasser 10 Min. garen. Alles vermengen und servieren.",
+    "Kalorien": 620,
+    "Fett": 15,
+    "Kohlenhydrate": 63,
+    "Proteine": 46,
+    "Zutaten und Mengen": {
+      "Hähnchenbrust": "130 g",
+      "Couscous": "60 g",
+      "Zucchini": "80 g",
+      "Paprika": "1 Stk",
+      "Aubergine": "70 g"
+    }
+  },
+  {
+  "Rezeptname": "Linsenbolognese",
+  "Zubereitung": "Zwiebel und Knoblauch in Öl 5 Min. anschwitzen. Karotte und Sellerie klein schneiden und 5 Min. mitbraten. Tomatenmark einrühren, dann mit den roten Linsen und stückigen Tomaten ablöschen. Alles mit Kräutern, Salz und Pfeffer würzen und 20 Min. köcheln lassen, bis die Linsen weich sind. Dazu Pasta servieren.",
+  "Kalorien": 580,
+  "Fett": 14,
+  "Kohlenhydrate": 82,
+  "Proteine": 28,
+  "Zutaten und Mengen": {
+    "rote Linsen": "100 g",
+    "Vollkornnudeln": "80 g",
+    "Karotte": "80 g",
+    "Sellerie": "50 g",
+    "Zwiebel": "1 Stk",
+    "Knoblauchzehe": "1 Stk",
+    "Tomaten (stückig)": "300 g",
+    "Tomatenmark": "1 EL"
+    }
+}
+
+]
