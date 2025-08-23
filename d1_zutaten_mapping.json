@@ -1,0 +1,16 @@
+{
+  "Fisch": ["Lachs"],
+  "Fleisch": ["Hähnchenbrust"],
+  "Fleischersatz": ["Tofu", "Tempeh"],
+  "Reis & Hülsenfrüchte": ["Quinoa", "Couscous", "Vollkornnudeln", "Vollkornreis", "Rote Linsen", "Belugalinsen"],
+  "Konserven": ["Thunfisch", "Kichererbsen", "Kidneybohnen", "Weiße Bohnen", "Mais", "Tomaten (stückig)", "Tomatenmark"],
+  "Milchprodukte & Käse": ["Magerquark", "Feta", "Eier"],
+  "Nüsse & Aufstriche": ["Walnüsse", "Erdnussmus"],
+  "Öle & Würzmittel": ["Sesamöl", "Sojasauce"],
+  "Obst & Gemüse": [
+    "Avocado", "Spinat", "Brokkoli", "Zucchini", "Paprika", 
+    "Möhren", "Sellerie", "Rote Bete", "Aubergine", "Süßkartoffel", 
+    "Rucola", "Tomaten", "Zwiebel", "Knoblauch", "Oliven", "Zitronensaft"
+  ],
+  "Tiefkühlprodukte": ["Spinat (TK)"]
+}

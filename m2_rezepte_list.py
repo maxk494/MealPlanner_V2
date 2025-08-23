@@ -1,6 +1,6 @@
 import streamlit as st
 
-def overview_rezepte(recipes, selected_ids):
+def auflistung_rezepte(rezepte, ids):
     # Styling
     st.markdown('''
         <style>
@@ -55,19 +55,19 @@ def overview_rezepte(recipes, selected_ids):
     
     # Auflistung Rezepte mit Checkbox
     with st.container():
-        for recipe in recipes:
+        for rezept in rezepte:
                 c1, c2 = st.columns([0.1, 0.9])
                 with c1:
                     # Initialize session_state for the checkbox if it doesn't exist
                     is_selected = st.checkbox(
-                        "x", key=f"recipe_{recipe['Rezeptname']}", value=recipe['Rezeptname'] in selected_ids, label_visibility="hidden")
+                        "x", key=f"recipe_{rezept['Rezeptname']}", value=rezept['Rezeptname'] in ids, label_visibility="hidden")
                 with c2:
-                    recipe_index = '[' + str(recipes.index(recipe) + 1) + '] ' 
+                    recipe_index = '[' + str(rezepte.index(rezept) + 1) + '] ' 
                     if st.button(
-                        recipe_index + recipe['Rezeptname'],
-                        key=f"btn_{recipe['Rezeptname']}",
-                        help=recipe['Rezeptname']
+                        recipe_index + rezept['Rezeptname'],
+                        key=f"btn_{rezept['Rezeptname']}",
+                        help=rezept['Rezeptname']
                     ):
-                        st.session_state.selected_recipe = recipe["Rezeptname"]
+                        st.session_state.selected_recipe = rezept["Rezeptname"]
                         st.rerun()
     

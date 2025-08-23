@@ -1,8 +1,8 @@
 import streamlit as st
-from daten import load_recipes, data_quality
-from rezepte import overview_rezepte
-from zubereitung import detailview_rezepte
-from einkaufsliste import create_shopping_list
+from m1_daten import input_rezepte, data_quality
+from m2_rezepte_list import auflistung_rezepte
+from m3_rezepte_details import details_rezepte
+from m4_einkaufsliste import create_shopping_list
 
 # Set page config
 st.set_page_config(
@@ -14,14 +14,14 @@ st.set_page_config(
 
 def main():    
     # Load recipes
-    recipes = load_recipes()
+    rezepte = input_rezepte()
     data_quality()
     selected_ids = []    
 
     # Übersicht Rezepte
     # -----
     if 'selected_recipe' not in st.session_state:
-        overview_rezepte(recipes, selected_ids)
+        auflistung_rezepte(rezepte, selected_ids)
 
         # Erstellen der Einkaufsliste
         # -----
@@ -36,14 +36,14 @@ def main():
                     min_value=1, value=2, step=1, max_value=10, key="number_of_people")
             if st.button("Einkaufsliste erstellen"):
                 selected_recipe_keys = [key for key in st.session_state if key.startswith('recipe_') and st.session_state[key]]
-                shopping_list = create_shopping_list(recipes, selected_recipe_keys, st.session_state.number_of_people)
-                st.success("Kopiere die Einkaufsliste und füge sie in deine Notizen-App ein!")
+                shopping_list = create_shopping_list(rezepte, selected_recipe_keys, st.session_state.number_of_people)
+                st.success("Kopiere die Liste und füge sie in deine Notizen-App ein!")
                 st.code(shopping_list)
 
     # Detailansicht Rezepte
     # -----
     else:
-        detailview_rezepte(recipes)
+        details_rezepte(rezepte)
 
 if __name__ == "__main__":
     main()
