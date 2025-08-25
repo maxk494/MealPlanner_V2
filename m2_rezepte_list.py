@@ -1,6 +1,6 @@
 import streamlit as st
 
-def auflistung_rezepte(rezepte, ids):
+def auflistung_rezepte(rezepte, ids, überschrift):
     # Styling
     st.markdown('''
         <style>
@@ -29,7 +29,7 @@ def auflistung_rezepte(rezepte, ids):
                 height: auto;
                 width: 70px;
             }
-            #top10-rezepte {
+            h1 {
                 text-align: left;
             }
             #number_input_1 {
@@ -51,7 +51,7 @@ def auflistung_rezepte(rezepte, ids):
         ''', unsafe_allow_html=True)
 
     # Überschrift
-    st.markdown('<h1 style="font-size: 1.5rem; margin-bottom: 1rem; padding: 0px">🍲 Top10 Rezepte</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="font-size: 1.5rem; margin-bottom: 1rem; padding: 0px">🍲 {überschrift}</h1>', unsafe_allow_html=True)
     
     # Auflistung Rezepte mit Checkbox
     with st.container():

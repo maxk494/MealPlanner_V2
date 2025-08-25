@@ -1,16 +1,19 @@
 {
+  "Backwaren": ["Pumpernickel"],
   "Fisch": ["Lachs"],
   "Fleisch": ["Hähnchenbrust"],
   "Fleischersatz": ["Tofu", "Tempeh"],
   "Reis & Hülsenfrüchte": ["Quinoa", "Couscous", "Vollkornnudeln", "Vollkornreis", "Rote Linsen", "Belugalinsen"],
-  "Konserven": ["Thunfisch", "Kichererbsen", "Kidneybohnen", "Weiße Bohnen", "Mais", "Tomaten (stückig)", "Tomatenmark"],
-  "Milchprodukte & Käse": ["Magerquark", "Feta", "Eier"],
-  "Nüsse & Aufstriche": ["Walnüsse", "Erdnussmus"],
-  "Öle & Würzmittel": ["Sesamöl", "Sojasauce"],
+  "Konserven": ["Thunfisch", "Kichererbsen", "Kidneybohnen", "Weiße Bohnen", "Mais", "Tomaten (stückig)", "Tomatenmark", "Kokosmilch"],
+  "Milchprodukte & Käse": ["Mandelmilch", "Magerquark", "Feta", "Eier", "Körniger Frischkäse", "Griechischer Joghurt", "Skyr"],
+  "Aufstriche": ["Erdnussmus", "Mandelmus", "Honig"],
+  "Müsli & Nüsse": ["Haferflocken", "Walnüsse", "Nussmix"],
+  "Öle & Würzmittel": ["Sesamöl", "Sojasauce", "Zimt", "Kokosöl", "Rote Currypaste", "Gemüsebrühe", "Zitronensaft", "Limettensaft"],
   "Obst & Gemüse": [
     "Avocado", "Spinat", "Brokkoli", "Zucchini", "Paprika", 
     "Möhren", "Sellerie", "Rote Bete", "Aubergine", "Süßkartoffel", 
-    "Rucola", "Tomaten", "Zwiebel", "Knoblauch", "Oliven", "Zitronensaft"
-  ],
-  "Tiefkühlprodukte": ["Spinat (TK)"]
+    "Rucola", "Tomaten", "Zwiebel", "Knoblauch", "Oliven", 
+    "Apfel", "Bananen"],
+  "Tiefkühlprodukte": ["Spinat (TK)", "Beeren (TK)"],
+  "Sonstiges": ["Proteinpulver"]
 }

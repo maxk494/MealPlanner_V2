@@ -53,7 +53,7 @@ def create_shopping_list(rezepte, selected_rezepte_keys, anzahl_personen):
             text_einkaufsliste += f" [] {zutat}: {menge}\n"
 
     # Ergänzen der ausgewählten Rezepte
-    text_einkaufsliste += "\nAusgewählte Rezepte:\n"
+    text_einkaufsliste += "\nAusgewählte Rezepte\n"
     text_einkaufsliste += "="*30 + "\n"
     counter = 1
     for recipe in selected_rezepte:

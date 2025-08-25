@@ -7,19 +7,43 @@ def input_zutaten_mapping():
         zutaten_mapping = json.load(f)
     return zutaten_mapping
 
-def input_rezepte():
+def input_top10_rezepte():
     # Laden der Rezepte aus der JSON-Datei
     with open('d2_top10_rezepte.json', 'r', encoding='utf-8') as f:
         rezepte = json.load(f)
     
     # Sortieren der Rezepte nach dem Namen
     rezepte = sorted(rezepte, key=lambda x: x['Rezeptname'])
+
+    return rezepte
+
+def input_top5_snacks():
+    # Laden der Rezepte aus der JSON-Datei
+    with open('d3_top5_snacks.json', 'r', encoding='utf-8') as f:
+        rezepte = json.load(f)
+    
+    # Sortieren der Rezepte nach dem Namen
+    rezepte = sorted(rezepte, key=lambda x: x['Rezeptname'])
+    return rezepte
+
+def input_frühstück():
+    # Laden der Rezepte aus der JSON-Datei
+    with open('d4_frühstück.json', 'r', encoding='utf-8') as f:
+        rezepte = json.load(f)
+    
+    # Sortieren der Rezepte nach dem Namen
+    rezepte = sorted(rezepte, key=lambda x: x['Rezeptname'])
+    return rezepte
+
+def input_rezepte_all():
+    # Zusammenführen aller Rezepte
+    rezepte = input_top10_rezepte() + input_top5_snacks() + input_frühstück()
     return rezepte
 
 def data_quality():
     '''Prüfroutinen für die Vollständigkeit und Konsistenz der Input-Daten.'''
     # Input-Daten
-    rezepte = input_rezepte()
+    rezepte = input_rezepte_all()
     zutaten_mapping = input_zutaten_mapping()
 
     # Test 1: Alle Zutaten sollten die gleiche Einheit haben

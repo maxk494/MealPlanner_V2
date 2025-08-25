@@ -1,7 +1,7 @@
 [
   {
     "Rezeptname": "Kichererbsen-Bowl mit Quinoa",
-    "Zubereitung": "Quinoa in leicht gesalzenem Wasser 15 Min. kochen. In einer Pfanne Kichererbsen zusammen mit Spinat, Tomaten und Oliven in etwas Öl 10 Min. anbraten. Anschließend den Quark unterheben und alles mit dem gekochten Quinoa servieren.",
+    "Zubereitung": "Quinoa in leicht gesalzenem Wasser ca. 15 Min. köcheln lassen. In einer Pfanne Kichererbsen mit Spinat, Tomaten und Oliven in etwas Öl ca. 10 Min. anbraten. Den Magerquark unterheben und alles zusammen anrichten.",
     "Kalorien": 630,
     "Fett": 18,
     "Kohlenhydrate": 70,
@@ -17,7 +17,7 @@
   },
   {
     "Rezeptname": "Ofengemüse mit Linsen und Feta",
-    "Zubereitung": "Paprika, Zucchini, Möhren und Rote Bete klein schneiden. Mit Öl, roten Linsen und abgetropften Kichererbsen mischen und im Backofen bei 180 °C 20 Min. garen. Danach Feta würfeln und untermischen, 2 Min. ziehen lassen. Warm servieren.",
+    "Zubereitung": "Paprika, Zucchini, Möhren und Rote Bete klein schneiden. Mit roten Linsen und Kichererbsen mischen, mit etwas Öl beträufeln und bei 180 °C ca. 20 Min. im Ofen backen. Anschließend Feta in Würfel schneiden, untermischen und kurz ziehen lassen.",
     "Kalorien": 570,
     "Fett": 16,
     "Kohlenhydrate": 62,
@@ -32,24 +32,24 @@
       "Feta": "50 g"
     }
   },
-{
-  "Rezeptname": "Lachs auf Süßkartoffel-Wedges",
-  "Zubereitung": "Süßkartoffeln in Spalten schneiden, mit Öl und Zitronensaft beträufeln. Brokkoli in kleine Röschen teilen, Paprika in Streifen schneiden. Alles zusammen auf ein Backblech legen und bei 180 °C 25 Min. backen. Lachsfilet waschen, trocken tupfen, in den letzten 10 Min. der Garzeit zum Gemüse geben und mitgaren. Direkt servieren.",
-  "Kalorien": 650,
-  "Fett": 24,
-  "Kohlenhydrate": 52,
-  "Proteine": 42,
-  "Zutaten und Mengen": {
-    "Lachs": "150 g",
-    "Süßkartoffel": "200 g",
-    "Brokkoli": "100 g",
-    "Paprika": "1 Stk",
-    "Zitronensaft": "1 EL"
-  }
-},
+  {
+    "Rezeptname": "Lachs auf Süßkartoffel-Wedges",
+    "Zubereitung": "Süßkartoffel in Spalten schneiden und mit Zitronensaft beträufeln. Brokkoli in Röschen teilen und Paprika in Streifen schneiden. Alles auf ein Backblech legen, mit Öl beträufeln und bei 180 °C 25 Min. backen. Nach 15 Min. den Lachs zugeben und 10 Min. mitgaren.",
+    "Kalorien": 650,
+    "Fett": 24,
+    "Kohlenhydrate": 52,
+    "Proteine": 42,
+    "Zutaten und Mengen": {
+      "Lachs": "150 g",
+      "Süßkartoffel": "200 g",
+      "Brokkoli": "100 g",
+      "Paprika": "1 Stk",
+      "Zitronensaft": "1 EL"
+    }
+  },
   {
     "Rezeptname": "Tofu-Gemüse-Pfanne mit Erdnusssauce",
-    "Zubereitung": "Tofu in Würfel schneiden und mit Brokkoli, Möhren und Paprika in Sesamöl 10 Min. anbraten. Mit einer Sauce aus Erdnussmus, Sojasauce und Wasser ablöschen. Mit Vollkornreis servieren.",
+    "Zubereitung": "Tofu in Würfel schneiden. Mit Brokkoli, Möhren und Paprika in Sesamöl ca. 10 Min. anbraten. Eine Sauce aus Erdnussmus, Sojasauce und etwas Wasser anrühren, zugeben und kurz einziehen lassen. Mit gekochtendem Vollkornreis servieren.",
     "Kalorien": 620,
     "Fett": 25,
     "Kohlenhydrate": 55,
@@ -67,7 +67,7 @@
   },
   {
     "Rezeptname": "Thunfisch-Quinoasalat mit Bohnen und Ei",
-    "Zubereitung": "Quinoa 15 Min. in Wasser kochen und abkühlen lassen. Weiße Bohnen abspülen. Ein Ei 8–10 Min. hart kochen, schälen und in Stücke schneiden. Thunfisch abtropfen lassen. Alles mit Mais und halbierten Tomaten mischen, mit Zitronensaft beträufeln und etwas Öl untermengen. Lauwarm oder kalt servieren.",
+    "Zubereitung": "Quinoa ca. 15 Min. in Wasser kochen und abkühlen lassen. Ei ca. 8–10 Min. hart kochen, schälen und in Stücke schneiden. Weiße Bohnen abspülen und Thunfisch abtropfen lassen. Mit Mais und Tomaten mischen, Zitronensaft und etwas Öl zugeben. Lauwarm oder kalt genießen.",
     "Kalorien": 595,
     "Fett": 14,
     "Kohlenhydrate": 57,
@@ -82,10 +82,9 @@
       "Zitronensaft": "1 EL"
     }
   },
-
   {
     "Rezeptname": "Hähnchenbrust auf Beluga-Linsensalat",
-    "Zubereitung": "Hähnchenbrust in einer Pfanne mit Öl 10 Min. braten. Belugalinsen ca. 20 Min. köcheln lassen, anschließend mit Möhrenn, Rucola und Tomaten vermischen. Mit dem Hähnchen servieren.",
+    "Zubereitung": "Belugalinsen ca. 20 Min. in Wasser köcheln lassen. In der Zwischenzeit Hähnchenbrust in einer Pfanne ca. 10 Min. braten. Möhren klein schneiden, Tomaten würfeln und mit Rucola und den Linsen mischen. Hähnchen darauf anrichten.",
     "Kalorien": 590,
     "Fett": 14,
     "Kohlenhydrate": 47,
@@ -100,7 +99,7 @@
   },
   {
     "Rezeptname": "Vegetarische Chili sin Carne",
-    "Zubereitung": "Möhrenn und Paprika klein schneiden, in Öl 5 Min. andünsten. Anschließend Bohnen, Mais und Tomaten hinzufügen und alles 20 Min. köcheln lassen. Mit Vollkornreis servieren.",
+    "Zubereitung": "Möhren und Paprika klein schneiden, in Öl ca. 5 Min. andünsten. Kidneybohnen, Mais und stückige Tomaten hinzufügen. Mit Gewürzen abschmecken und ca. 20 Min. köcheln lassen. Mit gekochtem Vollkornreis servieren.",
     "Kalorien": 520,
     "Fett": 10,
     "Kohlenhydrate": 68,
@@ -115,24 +114,29 @@
     }
   },
   {
-    "Rezeptname": "Tempeh-Bowl mit Avocado & Vollkornreis",
-    "Zubereitung": "Vollkornreis 15 Min. kochen. Tempeh mit Brokkoli und Möhren in Sesamöl 10 Min. anbraten. Alles zusammen in einer Bowl mit Avocado anrichten.",
-    "Kalorien": 670,
-    "Fett": 22,
-    "Kohlenhydrate": 75,
-    "Proteine": 31,
+    "Rezeptname": "Veganes Belugalinsen-Curry",
+    "Zubereitung": "Zwiebel, Knoblauch schälen und hacken. Möhre schälen und würfeln. Kokosöl in einem Topf erhitzen, Zwiebel, Knoblauch und Möhre 1-2 Min. andünsten. Currypaste zugeben und kurz anschwitzen. Belugalinsen zugeben, mit stückigen Tomaten, Kokosmilch und Gemüsebrühe ablöschen. Ca. 30 Min. leicht köcheln lassen, dabei nach und nach restliche Brühe zugeben. Süßkartoffel schälen, würfeln und nach ca. 10 Min. mitgaren. Zum Schluss Limettensaft, Salz und Pfeffer einrühren.",
+    "Kalorien": 636,
+    "Fett": 28.2,
+    "Kohlenhydrate": 78.7,
+    "Proteine": 22.9,
     "Zutaten und Mengen": {
-      "Tempeh": "100 g",
-      "Avocado": "50 g",
-      "Brokkoli": "60 g",
+      "Zwiebel": "1 Stk",
+      "Knoblauch": "1 Stk",
       "Möhren": "60 g",
-      "Vollkornreis": "70 g",
-      "Sesamöl": "1 TL"
+      "Kokosöl": "1 EL",
+      "Rote Currypaste": "1 TL",
+      "Belugalinsen": "75 g",
+      "Tomaten (stückig)": "100 g",
+      "Kokosmilch": "100 ml",
+      "Gemüsebrühe": "150 ml",
+      "Süßkartoffel": "100 g",
+      "Limettensaft": "2 EL"
     }
   },
   {
     "Rezeptname": "Gemüse mit Hähnchen und Couscous",
-    "Zubereitung": "Hähnchenbrust in etwas Öl 10 Min. anbraten. Gemüse klein schneiden und mit Couscous in heißem Wasser 10 Min. garen. Alles vermengen und servieren.",
+    "Zubereitung": "Hähnchenbrust in einer Pfanne ca. 10 Min. anbraten. Zucchini, Paprika und Aubergine würfeln. Couscous nach Packungsanleitung mit heißem Wasser ca. 10 Min. quellen lassen. Alles miteinander vermengen und servieren.",
     "Kalorien": 620,
     "Fett": 15,
     "Kohlenhydrate": 63,
@@ -146,21 +150,21 @@
     }
   },
   {
-  "Rezeptname": "Linsenbolognese",
-  "Zubereitung": "Zwiebel und Knoblauch in Öl 5 Min. anschwitzen. Möhren und Sellerie klein schneiden und 5 Min. mitbraten. Tomatenmark einrühren, dann mit den roten Linsen und stückigen Tomaten ablöschen. Alles mit Kräutern, Salz und Pfeffer würzen und 20 Min. köcheln lassen, bis die Linsen weich sind. Dazu Pasta servieren.",
-  "Kalorien": 580,
-  "Fett": 14,
-  "Kohlenhydrate": 82,
-  "Proteine": 28,
-  "Zutaten und Mengen": {
-    "Rote Linsen": "100 g",
-    "Vollkornnudeln": "80 g",
-    "Möhren": "80 g",
-    "Sellerie": "50 g",
-    "Zwiebel": "1 Stk",
-    "Knoblauch": "1 Stk",
-    "Tomaten (stückig)": "300 g",
-    "Tomatenmark": "1 EL"
+    "Rezeptname": "Linsenbolognese",
+    "Zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Möhren und Sellerie klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren.",
+    "Kalorien": 580,
+    "Fett": 14,
+    "Kohlenhydrate": 82,
+    "Proteine": 28,
+    "Zutaten und Mengen": {
+      "Rote Linsen": "100 g",
+      "Vollkornnudeln": "80 g",
+      "Möhren": "80 g",
+      "Sellerie": "50 g",
+      "Zwiebel": "1 Stk",
+      "Knoblauch": "1 Stk",
+      "Tomaten (stückig)": "300 g",
+      "Tomatenmark": "1 EL"
     }
-}
+  }
 ]

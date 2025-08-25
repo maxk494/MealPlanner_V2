@@ -1,5 +1,5 @@
 import streamlit as st
-from m1_daten import input_rezepte, data_quality
+from m1_daten import input_rezepte_all, data_quality, input_top10_rezepte, input_top5_snacks, input_frühstück
 from m2_rezepte_list import auflistung_rezepte
 from m3_rezepte_details import details_rezepte
 from m4_einkaufsliste import create_shopping_list
@@ -14,14 +14,16 @@ st.set_page_config(
 
 def main():    
     # Load recipes
-    rezepte = input_rezepte()
+    rezepte = input_rezepte_all()
     data_quality()
     selected_ids = []    
 
     # Übersicht Rezepte
     # -----
     if 'selected_recipe' not in st.session_state:
-        auflistung_rezepte(rezepte, selected_ids)
+        auflistung_rezepte(input_top10_rezepte(), selected_ids, "Top10-Rezepte")
+        auflistung_rezepte(input_top5_snacks(), selected_ids, "Top5-Snacks")
+        auflistung_rezepte(input_frühstück(), selected_ids, "Frühstück")
 
         # Erstellen der Einkaufsliste
         # -----

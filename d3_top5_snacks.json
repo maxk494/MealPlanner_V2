@@ -1,0 +1,70 @@
+[
+  {
+    "Rezeptname": "Hüttenkäse mit Mandelmus und Beeren",
+    "Zubereitung": "Hüttenkäse mit frischen Beeren und einem Löffel Mandelmus vermengen. Optional Haferflocken unterrühren. Kalt genießen.",
+    "Kalorien": 290,
+    "Fett": 10,
+    "Kohlenhydrate": 18,
+    "Proteine": 27,
+    "Zutaten und Mengen": {
+      "Körniger Frischkäse": "150 g",
+      "Mandelmus": "15 g",
+      "Beeren (TK)": "70 g",
+      "Haferflocken": "10 g"
+    }
+  },
+  {
+    "Rezeptname": "Pumpernickel mit körnigem Frischkäse",
+    "Zubereitung": "Pumpernickelscheiben mit körnigem Frischkäse bestreichen. Schnittlauch oder frische Kräuter hacken und darüber streuen.",
+    "Kalorien": 170,
+    "Fett": 2,
+    "Kohlenhydrate": 26,
+    "Proteine": 13,
+    "Zutaten und Mengen": {
+      "Pumpernickel": "2 Scheiben",
+      "Körniger Frischkäse": "50 g"
+    }
+  },
+  {
+    "Rezeptname": "Protein-Peanutbutter-Riegel",
+    "Zubereitung": "Haferflocken, Proteinpulver und Erdnussbutter verrühren. Mit etwas Milch oder Wasser zu einer festen Masse verarbeiten. In Riegel formen und kalt stellen.",
+    "Kalorien": 210,
+    "Fett": 8,
+    "Kohlenhydrate": 19,
+    "Proteine": 15,
+    "Zutaten und Mengen": {
+      "Haferflocken": "20 g",
+      "Proteinpulver": "20 g",
+      "Erdnussmus": "15 g",
+      "Mandelmilch": "20 ml"
+    }
+  },
+  {
+    "Rezeptname": "Griechischer Joghurt mit Walnüssen und Honig",
+    "Zubereitung": "Griechischen Joghurt in eine Schale geben, Walnüsse grob hacken und darüberstreuen. Mit etwas Honig beträufeln.",
+    "Kalorien": 250,
+    "Fett": 10,
+    "Kohlenhydrate": 18,
+    "Proteine": 17,
+    "Zutaten und Mengen": {
+      "Griechischer Joghurt": "150 g",
+      "Walnüsse": "15 g",
+      "Honig": "1 TL"
+    }
+  },
+  {
+    "Rezeptname": "Quark mit Apfel und Walnüssen",
+    "Zubereitung": "Magerquark cremig rühren. Apfel in Würfel schneiden, mit Walnüssen und Zimt untermengen.",
+    "Kalorien": 200,
+    "Fett": 8,
+    "Kohlenhydrate": 15,
+    "Proteine": 18,
+    "Zutaten und Mengen": {
+      "Magerquark": "125 g",
+      "Apfel": "70 g",
+      "Walnüsse": "10 g",
+      "Zimt": "1 Prise"
+    }
+  }
+]
+
