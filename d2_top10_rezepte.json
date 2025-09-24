@@ -117,9 +117,9 @@
     "Rezeptname": "Veganes Belugalinsen-Curry",
     "Zubereitung": "Zwiebel, Knoblauch schälen und hacken. Möhre schälen und würfeln. Kokosöl in einem Topf erhitzen, Zwiebel, Knoblauch und Möhre 1-2 Min. andünsten. Currypaste zugeben und kurz anschwitzen. Belugalinsen zugeben, mit stückigen Tomaten, Kokosmilch und Gemüsebrühe ablöschen. Ca. 30 Min. leicht köcheln lassen, dabei nach und nach restliche Brühe zugeben. Süßkartoffel schälen, würfeln und nach ca. 10 Min. mitgaren. Zum Schluss Limettensaft, Salz und Pfeffer einrühren.",
     "Kalorien": 636,
-    "Fett": 28.2,
-    "Kohlenhydrate": 78.7,
-    "Proteine": 22.9,
+    "Fett": 28,
+    "Kohlenhydrate": 79,
+    "Proteine": 23,
     "Zutaten und Mengen": {
       "Zwiebel": "1 Stk",
       "Knoblauch": "1 Stk",
@@ -135,19 +135,21 @@
     }
   },
   {
-    "Rezeptname": "Gemüse mit Hähnchen und Couscous",
-    "Zubereitung": "Hähnchenbrust in einer Pfanne ca. 10 Min. anbraten. Zucchini, Paprika und Aubergine würfeln. Couscous nach Packungsanleitung mit heißem Wasser ca. 10 Min. quellen lassen. Alles miteinander vermengen und servieren.",
-    "Kalorien": 620,
-    "Fett": 15,
-    "Kohlenhydrate": 63,
-    "Proteine": 46,
-    "Zutaten und Mengen": {
-      "Hähnchenbrust": "130 g",
-      "Couscous": "60 g",
-      "Zucchini": "80 g",
-      "Paprika": "1 Stk",
-      "Aubergine": "70 g"
-    }
+  "Rezeptname": "Reispfanne mit Gemüse und Rührei",
+  "Zubereitung": "Vollkornreis 20 Minuten kochen. Paprika, Brokkoli und Zucchini in 7 Minuten anbraten, Erbsen zufügen, 3 Minuten weitergaren. Eier verquirlen, über das Gemüse geben, 4 Minuten unter Rühren stocken lassen. Gekochten Reis unterheben, mit Sojasauce und Kräutern abschmecken.",
+  "Kalorien": 610,
+  "Fett": 16,
+  "Kohlenhydrate": 87,
+  "Proteine": 30,
+  "Zutaten und Mengen": {
+    "Vollkornreis": "100 g",
+    "Paprika": "1 Stk",
+    "Brokkoli": "120 g",
+    "Zucchini": "80 g",
+    "Erbsen (TK)": "40 g",
+    "Eier": "2 Stk",
+    "Sojasauce": "1 EL"
+  }
   },
   {
     "Rezeptname": "Linsenbolognese",

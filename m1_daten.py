@@ -35,9 +35,18 @@ def input_frühstück():
     rezepte = sorted(rezepte, key=lambda x: x['Rezeptname'])
     return rezepte
 
+def input_backen():
+    # Laden der Rezepte aus der JSON-Datei
+    with open('d5_backen.json', 'r', encoding='utf-8') as f:
+        rezepte = json.load(f)
+    
+    # Sortieren der Rezepte nach dem Namen
+    rezepte = sorted(rezepte, key=lambda x: x['Rezeptname'])
+    return rezepte
+
 def input_rezepte_all():
     # Zusammenführen aller Rezepte
-    rezepte = input_top10_rezepte() + input_top5_snacks() + input_frühstück()
+    rezepte = input_top10_rezepte() + input_top5_snacks() + input_frühstück() + input_backen()
     return rezepte
 
 def data_quality():

@@ -1,5 +1,5 @@
 import streamlit as st
-from m1_daten import input_rezepte_all, data_quality, input_top10_rezepte, input_top5_snacks, input_frühstück
+from m1_daten import input_rezepte_all, data_quality, input_top10_rezepte, input_top5_snacks, input_frühstück, input_backen
 from m2_rezepte_list import auflistung_rezepte
 from m3_rezepte_details import details_rezepte
 from m4_einkaufsliste import create_shopping_list
@@ -24,6 +24,7 @@ def main():
         auflistung_rezepte(input_top10_rezepte(), selected_ids, "Top10-Rezepte")
         auflistung_rezepte(input_top5_snacks(), selected_ids, "Top5-Snacks")
         auflistung_rezepte(input_frühstück(), selected_ids, "Frühstück")
+        auflistung_rezepte(input_backen(), selected_ids, "Backen")
 
         # Erstellen der Einkaufsliste
         # -----

@@ -1,17 +1,17 @@
 [
   {
-    "Rezeptname": "Hüttenkäse mit Mandelmus und Beeren",
-    "Zubereitung": "Hüttenkäse mit frischen Beeren und einem Löffel Mandelmus vermengen. Optional Haferflocken unterrühren. Kalt genießen.",
-    "Kalorien": 290,
-    "Fett": 10,
-    "Kohlenhydrate": 18,
-    "Proteine": 27,
-    "Zutaten und Mengen": {
-      "Körniger Frischkäse": "150 g",
-      "Mandelmus": "15 g",
-      "Beeren (TK)": "70 g",
-      "Haferflocken": "10 g"
-    }
+  "Rezeptname": "Thunfisch-Hüttenkäse-Aufstrich auf Brot",
+  "Zubereitung": "Thunfisch abtropfen lassen und mit Hüttenkäse vermischen. Eingelegte Tomaten in kleine Stücke schneiden und untermischen. Mischung mit Salz, Pfeffer und frischem Basilikum abschmecken. Aufgeschnittenes Vollkornbrot mit der Thunfisch-Hüttenkäse-Creme bestreichen und servieren.",
+  "Kalorien": 350,
+  "Fett": 12,
+  "Kohlenhydrate": 30,
+  "Proteine": 32,
+  "Zutaten und Mengen": {
+    "Thunfisch": "100 g",
+    "Körniger Frischkäse": "100 g",
+    "Tomaten (eingelegt)": "50 g",
+    "Vollkornbrot": "2 Scheiben"
+  }
   },
   {
     "Rezeptname": "Pumpernickel mit körnigem Frischkäse",
@@ -21,22 +21,8 @@
     "Kohlenhydrate": 26,
     "Proteine": 13,
     "Zutaten und Mengen": {
-      "Pumpernickel": "2 Scheiben",
+      "Pumpernickel": "2 Stk",
       "Körniger Frischkäse": "50 g"
-    }
-  },
-  {
-    "Rezeptname": "Protein-Peanutbutter-Riegel",
-    "Zubereitung": "Haferflocken, Proteinpulver und Erdnussbutter verrühren. Mit etwas Milch oder Wasser zu einer festen Masse verarbeiten. In Riegel formen und kalt stellen.",
-    "Kalorien": 210,
-    "Fett": 8,
-    "Kohlenhydrate": 19,
-    "Proteine": 15,
-    "Zutaten und Mengen": {
-      "Haferflocken": "20 g",
-      "Proteinpulver": "20 g",
-      "Erdnussmus": "15 g",
-      "Mandelmilch": "20 ml"
     }
   },
   {
@@ -53,18 +39,20 @@
     }
   },
   {
-    "Rezeptname": "Quark mit Apfel und Walnüssen",
-    "Zubereitung": "Magerquark cremig rühren. Apfel in Würfel schneiden, mit Walnüssen und Zimt untermengen.",
-    "Kalorien": 200,
-    "Fett": 8,
-    "Kohlenhydrate": 15,
-    "Proteine": 18,
-    "Zutaten und Mengen": {
-      "Magerquark": "125 g",
-      "Apfel": "70 g",
-      "Walnüsse": "10 g",
-      "Zimt": "1 Prise"
-    }
+  "Rezeptname": "Salat mit roten Linsen, Gurke, Tomaten und Feta",
+  "Zubereitung": "Rote Linsen nach Packungsanleitung ca. 5-7 Minuten kochen, abgießen und abkühlen lassen. Gurke und Tomaten in kleine Würfel schneiden. Feta würfeln. Alle Zutaten in einer Schüssel vermengen. Mit Olivenöl, Zitronensaft, Salz, Pfeffer und frischen Kräutern (z.B. Petersilie) abschmecken.",
+  "Kalorien": 350,
+  "Fett": 18,
+  "Kohlenhydrate": 25,
+  "Proteine": 22,
+  "Zutaten und Mengen": {
+    "Rote Linsen": "80 g",
+    "Gurke": "100 g",
+    "Tomaten": "100 g",
+    "Feta": "80 g",
+    "Zitronensaft": "1 EL"
   }
+}
+
 ]
 

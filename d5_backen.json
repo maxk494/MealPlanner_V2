@@ -1,0 +1,16 @@
+[
+  {
+    "Rezeptname": "Protein-Peanutbutter-Riegel",
+    "Zubereitung": "Haferflocken, Proteinpulver und Erdnussbutter verrühren. Mit etwas Milch oder Wasser zu einer festen Masse verarbeiten. In Riegel formen und kalt stellen.",
+    "Kalorien": 210,
+    "Fett": 8,
+    "Kohlenhydrate": 19,
+    "Proteine": 15,
+    "Zutaten und Mengen": {
+      "Haferflocken": "20 g",
+      "Proteinpulver": "20 g",
+      "Erdnussmus": "15 g",
+      "Mandelmilch": "20 ml"
+    }
+  }
+]
