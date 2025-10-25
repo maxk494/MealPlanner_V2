@@ -1,21 +1,5 @@
 [
   {
-    "Rezeptname": "Kichererbsen-Bowl mit Quinoa",
-    "Zubereitung": "Quinoa in leicht gesalzenem Wasser ca. 15 Min. köcheln lassen. In einer Pfanne Kichererbsen mit Spinat, Tomaten und Oliven in etwas Öl ca. 10 Min. anbraten. Den Magerquark unterheben und alles zusammen anrichten.",
-    "Kalorien": 630,
-    "Fett": 18,
-    "Kohlenhydrate": 70,
-    "Proteine": 32,
-    "Zutaten und Mengen": {
-      "Quinoa": "70 g",
-      "Kichererbsen": "150 g",
-      "Spinat": "50 g",
-      "Tomaten": "80 g",
-      "Oliven": "20 g",
-      "Magerquark": "80 g"
-    }
-  },
-  {
     "Rezeptname": "Ofengemüse mit Linsen und Feta",
     "Zubereitung": "Paprika, Zucchini, Möhren und Rote Bete klein schneiden. Mit roten Linsen und Kichererbsen mischen, mit etwas Öl beträufeln und bei 180 °C ca. 20 Min. im Ofen backen. Anschließend Feta in Würfel schneiden, untermischen und kurz ziehen lassen.",
     "Kalorien": 570,
@@ -98,7 +82,7 @@
     }
   },
   {
-    "Rezeptname": "Vegetarische Chili sin Carne",
+    "Rezeptname": "Chili sin Carne",
     "Zubereitung": "Möhren und Paprika klein schneiden, in Öl ca. 5 Min. andünsten. Kidneybohnen, Mais und stückige Tomaten hinzufügen. Mit Gewürzen abschmecken und ca. 20 Min. köcheln lassen. Mit gekochtem Vollkornreis servieren.",
     "Kalorien": 520,
     "Fett": 10,
@@ -114,7 +98,7 @@
     }
   },
   {
-    "Rezeptname": "Veganes Belugalinsen-Curry",
+    "Rezeptname": "Belugalinsen-Curry",
     "Zubereitung": "Zwiebel, Knoblauch schälen und hacken. Möhre schälen und würfeln. Kokosöl in einem Topf erhitzen, Zwiebel, Knoblauch und Möhre 1-2 Min. andünsten. Currypaste zugeben und kurz anschwitzen. Belugalinsen zugeben, mit stückigen Tomaten, Kokosmilch und Gemüsebrühe ablöschen. Ca. 30 Min. leicht köcheln lassen, dabei nach und nach restliche Brühe zugeben. Süßkartoffel schälen, würfeln und nach ca. 10 Min. mitgaren. Zum Schluss Limettensaft, Salz und Pfeffer einrühren.",
     "Kalorien": 636,
     "Fett": 28,
@@ -168,5 +152,65 @@
       "Tomaten (stückig)": "300 g",
       "Tomatenmark": "1 EL"
     }
+  },
+  {
+    "Rezeptname": "Linsen-Süßkartoffel-Wrap",
+    "Zubereitung": "Zwiebeln und Süßkartofeln 3 Minuten dünsten. Im Anschluss Linsen und rote Currypaste hinzugeben. Wasser (100 ml) und Kokosmilch hinzufügen und 15 Minuten köcheln lassen. Abschließend Feta drüberstreuen. Den Wrap mit Hummus und Ajvar bestreichen.",
+    "Kalorien": 600,
+    "Fett": 15,
+    "Kohlenhydrate": 80,
+    "Proteine": 25,
+    "Zutaten und Mengen": {
+      "Rote Linsen": "50 g",
+      "Süßkartoffel": "150 g",
+      "Wrap": "2 Stk",
+      "Zwiebel": "1 Stk",
+      "Kokosmilch": "125 ml",
+      "Feta": "100 g",
+      "Ajvar": "2 EL",
+      "Rote Currypaste": "2 TL"
+    }
+},
+{
+  "Rezeptname": "Pad Thai mit Tofu",
+  "Zubereitung": "Reisnudeln nach Packungsanleitung in heißem Wasser einweichen, bis sie weich, aber noch bissfest sind. Im Wok 1 EL Öl erhitzen, Tofu würfeln und darin 6–8 Minuten goldbraun anbraten. Tofu herausnehmen. Dann Knoblauch, Schalotte und eine Prise Chiliflocken 1 Minute im Wok anrösten. Die Nudeln und die vorbereitete Sauce (aus Tamarindenpaste, Sojasauce und braunem Zucker) hinzufügen und 2–3 Minuten braten, bis die Flüssigkeit reduziert ist. Das Ei in die Pfanne schlagen, kurz stocken lassen und dann unter die Nudeln heben. Tofu, Sojasprossen und Frühlingszwiebeln zugeben und 2 Minuten weiterbraten. Mit gehackten Erdnüssen, Limettensaft und etwas Chili bestreuen.",
+  "Kalorien": 880,
+  "Fett": 32,
+  "Kohlenhydrate": 105,
+  "Proteine": 45,
+  "Zutaten und Mengen": {
+    "Reisbandnudeln": "100 g",
+    "Tofu": "150 g",
+    "Eier": "2 Stk",
+    "Zwiebel": "1 Stk",
+    "Knoblauch": "1 Stk",
+    "Sojasprossen": "100 g",
+    "Frühlingszwiebeln": "50 g",
+    "Erdnüsse": "20 g",
+    "Tamarindenpaste": "2 EL",
+    "Sojasauce": "2 EL",
+    "Brauner Zucker": "1 EL",
+    "Limettensaft": "2 EL"
   }
+},
+{
+  "Rezeptname": "Linsen-Dal mit Vollkornreis",
+  "Zubereitung": "Zwiebel, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen und Zwiebeln 2–3 Minuten glasig anbraten. Knoblauch, Kreuzkümmel, Kurkuma, Garam Masala, Korianderpulver und Paprikapulver zugeben und etwa 1 Minute anschwitzen. Tomatenmark und rote Linsen einrühren, kurz umrühren und mit Gemüsebrühe ablöschen. 10 Minuten bei mittlerer Hitze köcheln lassen. Dann gehackte Tomaten und Kokosmilch hinzufügen, gut vermengen und weitere 10–15 Minuten köcheln lassen, bis die Linsen weich und cremig sind. Mit Limettensaft und Salz abschmecken. Mit frischem Koriander bestreuen und warm servieren. Vollkornreis nach Packungsanleitung zubereiten und als Beilage dazu reichen.",
+  "Kalorien": 970,
+  "Fett": 28,
+  "Kohlenhydrate": 130,
+  "Proteine": 36,
+  "Zutaten und Mengen": {
+    "Rote Linsen": "150 g",
+    "Zwiebel": "1 Stk",
+    "Knoblauch": "2 Stk",
+    "Kokosöl": "1 EL",
+    "Tomatenmark": "1 EL",
+    "Tomaten (stückig)": "200 g",
+    "Gemüsebrühe": "300 ml",
+    "Kokosmilch": "150 ml",
+    "Limettensaft": "2 EL",
+    "Vollkornreis": "75 g"
+  }
+}
 ]

@@ -1,19 +1,19 @@
 {
-  "Backwaren": ["Pumpernickel", "Vollkornbrot"],
+  "Backwaren": ["Pumpernickel", "Vollkornbrot", "Wrap"],
   "Fisch": ["Lachs"],
   "Fleisch": ["Hähnchenbrust"],
   "Fleischersatz": ["Tofu", "Tempeh"],
-  "Reis & Hülsenfrüchte": ["Quinoa", "Couscous", "Vollkornnudeln", "Vollkornreis", "Rote Linsen", "Belugalinsen"],
-  "Konserven": ["Thunfisch", "Kichererbsen", "Kidneybohnen", "Weiße Bohnen", "Mais", "Tomaten (stückig)", "Tomaten (eingelegt)", "Tomatenmark", "Kokosmilch"],
-  "Milchprodukte & Käse": ["Mandelmilch", "Magerquark", "Feta", "Eier", "Körniger Frischkäse", "Griechischer Joghurt", "Skyr"],
+  "Reis & Hülsenfrüchte": ["Quinoa", "Couscous", "Vollkornnudeln", "Vollkornreis", "Rote Linsen", "Belugalinsen", "Reisbandnudeln", "Brauner Zucker", "Mehl", "Backpulver", "Sesam"],
+  "Konserven": ["Thunfisch", "Kichererbsen", "Kidneybohnen", "Weiße Bohnen", "Mais", "Tomaten (stückig)", "Tomaten (eingelegt)", "Tomatenmark", "Kokosmilch", "Sojasprossen"],
+  "Milchprodukte & Käse": ["Mandelmilch", "Magerquark", "Feta", "Eier", "Körniger Frischkäse", "Griechischer Joghurt", "Skyr", "Milch", "Butter", "Creme fraiche"],
   "Aufstriche": ["Erdnussmus", "Mandelmus", "Honig"],
-  "Müsli & Nüsse": ["Haferflocken", "Walnüsse", "Nussmix"],
-  "Öle & Würzmittel": ["Sesamöl", "Sojasauce", "Zimt", "Kokosöl", "Rote Currypaste", "Gemüsebrühe", "Zitronensaft", "Limettensaft"],
+  "Müsli & Nüsse": ["Haferflocken", "Walnüsse", "Nussmix", "Erdnüsse", "Cranberries"],
+  "Öle & Würzmittel": ["Sesamöl", "Sojasauce", "Zimt", "Kokosöl", "Rote Currypaste", "Gemüsebrühe", "Zitronensaft", "Limettensaft", "Ajvar", "Tamarindenpaste", "Muskatnuss"],
   "Obst & Gemüse": [
     "Avocado", "Spinat", "Brokkoli", "Zucchini", "Paprika", 
     "Möhren", "Sellerie", "Rote Bete", "Aubergine", "Süßkartoffel", 
     "Rucola", "Tomaten", "Zwiebel", "Knoblauch", "Oliven", 
-    "Apfel", "Bananen", "Gurke"],
+    "Apfel", "Bananen", "Gurke", "Frühlingszwiebeln"],
   "Tiefkühlprodukte": ["Spinat (TK)", "Beeren (TK)", "Erbsen (TK)"],
   "Sonstiges": ["Proteinpulver"]
 }
