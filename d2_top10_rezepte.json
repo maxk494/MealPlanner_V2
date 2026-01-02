@@ -2,108 +2,114 @@
   {
     "Rezeptname": "Ofengemüse mit Linsen und Feta",
     "Zubereitung": "Paprika, Zucchini, Möhren und Rote Bete klein schneiden. Mit roten Linsen und Kichererbsen mischen, mit etwas Öl beträufeln und bei 180 °C ca. 20 Min. im Ofen backen. Anschließend Feta in Würfel schneiden, untermischen und kurz ziehen lassen.",
-    "Kalorien": 570,
-    "Fett": 16,
-    "Kohlenhydrate": 62,
-    "Proteine": 28,
-    "Zutaten und Mengen": {
-      "Rote Linsen": "70 g",
-      "Kichererbsen": "80 g",
-      "Paprika": "1 Stk",
-      "Zucchini": "80 g",
-      "Möhren": "80 g",
-      "Rote Bete": "60 g",
-      "Feta": "50 g"
-    }
-  },
-  {
-    "Rezeptname": "Lachs auf Süßkartoffel-Wedges",
-    "Zubereitung": "Süßkartoffel in Spalten schneiden und mit Zitronensaft beträufeln. Brokkoli in Röschen teilen und Paprika in Streifen schneiden. Alles auf ein Backblech legen, mit Öl beträufeln und bei 180 °C 25 Min. backen. Nach 15 Min. den Lachs zugeben und 10 Min. mitgaren.",
-    "Kalorien": 650,
-    "Fett": 24,
-    "Kohlenhydrate": 52,
+    "Kalorien": 820,
+    "Fett": 28,
+    "Kohlenhydrate": 85,
     "Proteine": 42,
     "Zutaten und Mengen": {
-      "Lachs": "150 g",
-      "Süßkartoffel": "200 g",
-      "Brokkoli": "100 g",
+      "Rote Linsen": "100 g",
+      "Kichererbsen": "120 g",
       "Paprika": "1 Stk",
+      "Zucchini": "150 g",
+      "Möhren": "120 g",
+      "Rote Bete": "100 g",
+      "Feta": "80 g"
+    }
+  },
+  {
+    "Rezeptname": "Lachs mit Süßkartoffeln und Spinat",
+    "Zubereitung": "Süßkartoffel in Würfel schneiden und in Salzwasser garen. Das Lachsfilet von beiden Seiten anbraten. Blattsprinat waschen und mit 50ml Wassser, Salz unf Butter im Topf schwenken. Mit Sour Cream, Lachs, Süßkartoffel und Zitrone auf dem Teller anrichten.",
+    "Kalorien": 820,
+    "Fett": 46,
+    "Kohlenhydrate": 55,
+    "Proteine": 48,
+    "Zutaten und Mengen": {
+      "Lachs": "200 g",
+      "Süßkartoffel": "300 g",
+      "Blattspinat": "100 g",
+      "Sour Cream": "2 EL",
       "Zitronensaft": "1 EL"
     }
   },
   {
-    "Rezeptname": "Tofu-Gemüse-Pfanne mit Erdnusssauce",
+    "Rezeptname": "Gemüse-Pfanne mit Tofu und Erdnusssauce",
     "Zubereitung": "Tofu in Würfel schneiden. Mit Brokkoli, Möhren und Paprika in Sesamöl ca. 10 Min. anbraten. Eine Sauce aus Erdnussmus, Sojasauce und etwas Wasser anrühren, zugeben und kurz einziehen lassen. Mit gekochtendem Vollkornreis servieren.",
-    "Kalorien": 620,
-    "Fett": 25,
-    "Kohlenhydrate": 55,
-    "Proteine": 28,
+    "Kalorien": 880,
+    "Fett": 38,
+    "Kohlenhydrate": 80,
+    "Proteine": 42,
     "Zutaten und Mengen": {
-      "Tofu": "120 g",
-      "Brokkoli": "80 g",
-      "Möhren": "80 g",
+      "Tofu": "200 g",
+      "Brokkoli": "150 g",
+      "Möhren": "120 g",
       "Paprika": "1 Stk",
-      "Erdnussmus": "20 g",
+      "Erdnussmus": "30 g",
       "Sojasauce": "1 EL",
-      "Sesamöl": "1 TL",
-      "Vollkornreis": "60 g"
+      "Sesamöl": "2 TL",
+      "Vollkornreis": "90 g"
     }
   },
   {
-    "Rezeptname": "Thunfisch-Quinoasalat mit Bohnen und Ei",
-    "Zubereitung": "Quinoa ca. 15 Min. in Wasser kochen und abkühlen lassen. Ei ca. 8–10 Min. hart kochen, schälen und in Stücke schneiden. Weiße Bohnen abspülen und Thunfisch abtropfen lassen. Mit Mais und Tomaten mischen, Zitronensaft und etwas Öl zugeben. Lauwarm oder kalt genießen.",
-    "Kalorien": 595,
-    "Fett": 14,
-    "Kohlenhydrate": 57,
+    "Rezeptname": "Curry mit Tempeh und Gemüse",
+    "Zubereitung": "Tempeh in Würfel schneiden. Tempeh, Möhren, Zucchini und Zwiebeln anbraten (6–8 Min). Rote Curry-Paste hinzugeben und kurz mitrösten (1–2 Min). Mit Gemüsebrühe und Kokosmilch ablöschen. Brokkoli, Paprika und Kartoffeln hinzugeben und köcheln lassen (20 Min). Vollkornreis separat kochen (25–30 Min) und zum Curry servieren.",
+    "Kalorien": 1020,
+    "Fett": 40,
+    "Kohlenhydrate": 120,
     "Proteine": 46,
     "Zutaten und Mengen": {
-      "Thunfisch": "100 g",
-      "Quinoa": "70 g",
-      "Mais": "50 g",
-      "Tomaten": "80 g",
-      "Weiße Bohnen": "80 g",
-      "Eier": "1 Stk",
-      "Zitronensaft": "1 EL"
+      "Tempeh": "220 g",
+      "Vollkornreis": "100 g",
+      "Kokosmilch": "200 ml",
+      "Gemüsebrühe": "150 ml",
+      "Rote Currypaste": "2 TL",
+      "Möhren": "120 g",
+      "Zucchini": "150 g",
+      "Brokkoli": "150 g",
+      "Paprika": "1 Stk",
+      "Kartoffel": "250 g",
+      "Zwiebel": "1 Stk"
     }
   },
   {
-    "Rezeptname": "Hähnchenbrust auf Beluga-Linsensalat",
-    "Zubereitung": "Belugalinsen ca. 20 Min. in Wasser köcheln lassen. In der Zwischenzeit Hähnchenbrust in einer Pfanne ca. 10 Min. braten. Möhren klein schneiden, Tomaten würfeln und mit Rucola und den Linsen mischen. Hähnchen darauf anrichten.",
-    "Kalorien": 590,
-    "Fett": 14,
-    "Kohlenhydrate": 47,
-    "Proteine": 56,
+    "Rezeptname": "Salat mit Thunfisch, Quinoa und Ei",
+    "Zubereitung": "Quinoa ca. 15 Min. in Wasser kochen und abkühlen lassen. Ei ca. 8–10 Min. hart kochen, schälen und in Stücke schneiden. Weiße Bohnen abspülen und Thunfisch abtropfen lassen. Mit Mais und Tomaten mischen, Zitronensaft und etwas Öl zugeben. Lauwarm oder kalt genießen.",
+    "Kalorien": 820,
+    "Fett": 22,
+    "Kohlenhydrate": 70,
+    "Proteine": 52,
     "Zutaten und Mengen": {
-      "Hähnchenbrust": "140 g",
-      "Belugalinsen": "70 g",
-      "Möhren": "80 g",
-      "Rucola": "40 g",
-      "Tomaten": "80 g"
+      "Thunfisch": "150 g",
+      "Quinoa": "90 g",
+      "Mais": "80 g",
+      "Tomaten": "120 g",
+      "Weiße Bohnen": "120 g",
+      "Eier": "2 Stk",
+      "Zitronensaft": "1 EL"
     }
   },
   {
     "Rezeptname": "Chili sin Carne",
     "Zubereitung": "Möhren und Paprika klein schneiden, in Öl ca. 5 Min. andünsten. Kidneybohnen, Mais und stückige Tomaten hinzufügen. Mit Gewürzen abschmecken und ca. 20 Min. köcheln lassen. Mit gekochtem Vollkornreis servieren.",
-    "Kalorien": 520,
-    "Fett": 10,
-    "Kohlenhydrate": 68,
-    "Proteine": 21,
+    "Kalorien": 860,
+    "Fett": 18,
+    "Kohlenhydrate": 110,
+    "Proteine": 38,
     "Zutaten und Mengen": {
-      "Kidneybohnen": "120 g",
-      "Mais": "60 g",
-      "Möhren": "80 g",
+      "Kidneybohnen": "200 g",
+      "Mais": "100 g",
+      "Möhren": "120 g",
       "Paprika": "1 Stk",
-      "Tomaten (stückig)": "200 g",
-      "Vollkornreis": "50 g"
+      "Tomaten (stückig)": "300 g",
+      "Vollkornreis": "90 g"
     }
   },
   {
-    "Rezeptname": "Belugalinsen-Curry",
+    "Rezeptname": "Curry mit Belugalinsen und Süßkartoffeln",
     "Zubereitung": "Zwiebel, Knoblauch schälen und hacken. Möhre schälen und würfeln. Kokosöl in einem Topf erhitzen, Zwiebel, Knoblauch und Möhre 1-2 Min. andünsten. Currypaste zugeben und kurz anschwitzen. Belugalinsen zugeben, mit stückigen Tomaten, Kokosmilch und Gemüsebrühe ablöschen. Ca. 30 Min. leicht köcheln lassen, dabei nach und nach restliche Brühe zugeben. Süßkartoffel schälen, würfeln und nach ca. 10 Min. mitgaren. Zum Schluss Limettensaft, Salz und Pfeffer einrühren.",
-    "Kalorien": 636,
-    "Fett": 28,
-    "Kohlenhydrate": 79,
-    "Proteine": 23,
+    "Kalorien": 860,
+    "Fett": 34,
+    "Kohlenhydrate": 100,
+    "Proteine": 38,
     "Zutaten und Mengen": {
       "Zwiebel": "1 Stk",
       "Knoblauch": "1 Stk",
@@ -119,98 +125,258 @@
     }
   },
   {
-  "Rezeptname": "Reispfanne mit Gemüse und Rührei",
+  "Rezeptname": "Gemüse-Pfanne mit Erbsen Rührei",
   "Zubereitung": "Vollkornreis 20 Minuten kochen. Paprika, Brokkoli und Zucchini in 7 Minuten anbraten, Erbsen zufügen, 3 Minuten weitergaren. Eier verquirlen, über das Gemüse geben, 4 Minuten unter Rühren stocken lassen. Gekochten Reis unterheben, mit Sojasauce und Kräutern abschmecken.",
-  "Kalorien": 610,
-  "Fett": 16,
-  "Kohlenhydrate": 87,
-  "Proteine": 30,
+  "Kalorien": 820,
+  "Fett": 26,
+  "Kohlenhydrate": 95,
+  "Proteine": 42,
   "Zutaten und Mengen": {
     "Vollkornreis": "100 g",
     "Paprika": "1 Stk",
-    "Brokkoli": "120 g",
-    "Zucchini": "80 g",
-    "Erbsen (TK)": "40 g",
-    "Eier": "2 Stk",
+    "Brokkoli": "150 g",
+    "Zucchini": "120 g",
+    "Erbsen (TK)": "80 g",
+    "Eier": "3 Stk",
     "Sojasauce": "1 EL"
   }
   },
   {
-    "Rezeptname": "Linsenbolognese",
-    "Zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Möhren und Sellerie klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren.",
-    "Kalorien": 580,
-    "Fett": 14,
-    "Kohlenhydrate": 82,
-    "Proteine": 28,
+    "Rezeptname": "Nudeln mit Linsenbolognese",
+    "Zubereitung": "Zwiebel und Knoblauch in Öl ca. 5 Min. anschwitzen. Suppengrün klein schneiden und ca. 5 Min. mitbraten. Tomatenmark einrühren, dann mit roten Linsen und stückigen Tomaten ablöschen. Mit Kräutern, Salz und Pfeffer würzen und ca. 20 Min. köcheln lassen. Mit gekochten Vollkornnudeln servieren.",
+    "Kalorien": 880,
+    "Fett": 18,
+    "Kohlenhydrate": 114,
+    "Proteine": 44,
     "Zutaten und Mengen": {
-      "Rote Linsen": "100 g",
-      "Vollkornnudeln": "80 g",
-      "Möhren": "80 g",
-      "Sellerie": "50 g",
+      "Rote Linsen": "120 g",
+      "Vollkornnudeln": "100 g",
+      "Suppengrün": "200 g",
       "Zwiebel": "1 Stk",
-      "Knoblauch": "1 Stk",
-      "Tomaten (stückig)": "300 g",
-      "Tomatenmark": "1 EL"
+      "Knoblauch": "2 Stk",
+      "Tomaten (stückig)": "400 g",
+      "Tomatenmark": "2 EL"
     }
   },
   {
-    "Rezeptname": "Linsen-Süßkartoffel-Wrap",
+    "Rezeptname": "Wrap mit Linsen und Süßkartoffeln",
     "Zubereitung": "Zwiebeln und Süßkartofeln 3 Minuten dünsten. Im Anschluss Linsen und rote Currypaste hinzugeben. Wasser (100 ml) und Kokosmilch hinzufügen und 15 Minuten köcheln lassen. Abschließend Feta drüberstreuen. Den Wrap mit Hummus und Ajvar bestreichen.",
-    "Kalorien": 600,
-    "Fett": 15,
-    "Kohlenhydrate": 80,
-    "Proteine": 25,
+    "Kalorien": 920,
+    "Fett": 28,
+    "Kohlenhydrate": 110,
+    "Proteine": 42,
     "Zutaten und Mengen": {
-      "Rote Linsen": "50 g",
-      "Süßkartoffel": "150 g",
+      "Rote Linsen": "80 g",
+      "Süßkartoffel": "250 g",
       "Wrap": "2 Stk",
       "Zwiebel": "1 Stk",
-      "Kokosmilch": "125 ml",
-      "Feta": "100 g",
+      "Kokosmilch": "150 ml",
+      "Feta": "80 g",
       "Ajvar": "2 EL",
       "Rote Currypaste": "2 TL"
     }
 },
-{
-  "Rezeptname": "Pad Thai mit Tofu",
-  "Zubereitung": "Reisnudeln nach Packungsanleitung in heißem Wasser einweichen, bis sie weich, aber noch bissfest sind. Im Wok 1 EL Öl erhitzen, Tofu würfeln und darin 6–8 Minuten goldbraun anbraten. Tofu herausnehmen. Dann Knoblauch, Schalotte und eine Prise Chiliflocken 1 Minute im Wok anrösten. Die Nudeln und die vorbereitete Sauce (aus Tamarindenpaste, Sojasauce und braunem Zucker) hinzufügen und 2–3 Minuten braten, bis die Flüssigkeit reduziert ist. Das Ei in die Pfanne schlagen, kurz stocken lassen und dann unter die Nudeln heben. Tofu, Sojasprossen und Frühlingszwiebeln zugeben und 2 Minuten weiterbraten. Mit gehackten Erdnüssen, Limettensaft und etwas Chili bestreuen.",
-  "Kalorien": 880,
-  "Fett": 32,
-  "Kohlenhydrate": 105,
-  "Proteine": 45,
-  "Zutaten und Mengen": {
-    "Reisbandnudeln": "100 g",
-    "Tofu": "150 g",
-    "Eier": "2 Stk",
-    "Zwiebel": "1 Stk",
-    "Knoblauch": "1 Stk",
-    "Sojasprossen": "100 g",
-    "Frühlingszwiebeln": "50 g",
-    "Erdnüsse": "20 g",
-    "Tamarindenpaste": "2 EL",
-    "Sojasauce": "2 EL",
-    "Brauner Zucker": "1 EL",
-    "Limettensaft": "2 EL"
+
+  {
+    "Rezeptname": "Salat mit Grünkohl und Linsen",
+    "Zubereitung": "Linsen in Wasser garen (8–10 Min). Grünkohl  kochen. Nüsse grob hacken. Dressing aus Öl, Essig, Senf und Honig anrühren. Alle Zutaten vermengen, kurz ziehen lassen (5 Min).",
+    "Kalorien": 780,
+    "Fett": 30,
+    "Kohlenhydrate": 75,
+    "Proteine": 38,
+    "Zutaten und Mengen": {
+      "Rote Linsen": "100 g",
+      "Grünkohl (TK)": "150 g",
+      "Apfel": "1 Stk",
+      "Walnüsse": "25 g",
+      "Senf": "1 TL",
+      "Honig": "1 TL"
+    }
+  },
+  {
+    "Rezeptname": "Nudeln alla Carbonara",
+    "Zubereitung": "Spaghetti kochen (10–12 Min). Speckwürfel andünsten (5–7 Min). Eigelb mit Käse verrühren. Nudeln mit Speck mischen, vom Herd ziehen, Eimischung unterheben.",
+    "Kalorien": 920,
+    "Fett": 40,
+    "Kohlenhydrate": 90,
+    "Proteine": 45,
+    "Zutaten und Mengen": {
+      "Vollkornnudeln": "110 g",
+      "Speck": "50 g",
+      "Parmesan": "30 g",
+      "Eier": "2 Stk"
+    }
+  },
+  {
+    "Rezeptname": "Nudeln aus roten Linsen mit Tofu",
+    "Zubereitung": "Pasta kochen (10–12 Min). Tofu würfeln, mit Cashewkernen anbraten (6–8 Min) und zur Seite stellen. Paprika, Lauch und Zuckerschoten, in restlichem Öl anbraten. Mit Kokosmilch ablöschen und mit Curry, Salz, Pfeffer würzen. Alles vermengen und anrichten.",
+    "Kalorien": 940,
+    "Fett": 34,
+    "Kohlenhydrate": 95,
+    "Proteine": 52,
+    "Zutaten und Mengen": {
+      "Rote-Linsen Nudeln": "100 g",
+      "Tofu": "200 g",
+      "Cashews": "30 g",
+      "Paprika": "1 Stk",
+      "Zuckerschoten": "80 g",
+      "Lauch": "1 Stk",
+      "Kokosmilch":"150 ml"
+    }
+  },
+  {
+    "Rezeptname": "Bowl mit Hummus und Couscous",
+    "Zubereitung": "Gemüsebrühe aufkochen und Couscous 10 Min. quellen lassen. Kichererbsen abgießen und etwas Flüßigkeit auffangen. Zitronensaft, Kichererbsen, Knoblauch, Olivenöl, Kreuzkümmel, Salz, Pfeffer, Tahin und Flüßigkeit zu Hummus pürieren. Gurke entkernen und mit Tomate, Oliven und Minze würfeln. Falafeln anbraten und alles gemeinsam anrichten.",
+    "Kalorien": 920,
+    "Fett": 34,
+    "Kohlenhydrate": 105,
+    "Proteine": 40,
+    "Zutaten und Mengen": {
+      "Gemüsebrühe": "100 ml",
+      "Couscous": "100 g",
+      "Kichererbsen": "150 g",
+      "Tahini": "1 EL",
+      "Paprika": "1 Stk",
+      "Gurke": "100 g",
+      "Falafel": "100 g",
+      "Minze": "10 g",
+      "Oliven": "20 g",
+      "Tomaten": "50 g",
+      "Zitronensaft": "2 EL",
+      "Knoblauch": "1 Stk"
+    }
+  },
+  {
+    "Rezeptname": "Salat mit Bohnen und Bulgur",
+    "Zubereitung": "Die Gemüsebrühe aufkochen und den Bulgur bei verringerter Hitze quellen lassen (15 Min.). Paprika und Zwiebeln würfeln. Bohnen und Mais abspülen. Für das Dressing Olivenöl, Zitronensaft und Senf verquierlen. Knoblauch klein hacken und dazugeben. Mit Salz und Pfeffer würzen. Den Salat vor dem Servieren 30 Min. im Kühlschrank ziehen lassen.",
+    "Kalorien": 880,
+    "Fett": 24,
+    "Kohlenhydrate": 115,
+    "Proteine": 38,
+    "Zutaten und Mengen": {
+      "Gemüsebrühe": "200 ml",
+      "Bulgur": "100 g",
+      "Paprika": "1 Stk",
+      "Zwiebel": "1 Stk",
+      "Weiße Bohnen": "100 g",
+      "Kidneybohnen": "100 g",
+      "Mais": "100 g",
+      "Zitronensaft": "2 EL",
+      "Senf": "1 TL",
+      "Knoblauch": "1 Stk"
+    }
+  },
+  {
+    "Rezeptname": "Gemüse-Pfanne mit Zucchini-Spaghetti und Tofu",
+    "Zubereitung": "Quinoa kochen (15–18 Min). Tofu, Zwiebeln und Knoblauch würfeln und anbraten (6–8 Min). Zucchini spiralisieren und kurz mitbraten (3–4 Min). Sesam in einer Pfanne ohne Fett rösten. Quinoa unterheben und mit Sesam bestreuen.",
+    "Kalorien": 820,
+    "Fett": 30,
+    "Kohlenhydrate": 85,
+    "Proteine": 45,
+    "Zutaten und Mengen": {
+      "Quinoa": "90 g",
+      "Tofu": "200 g",
+      "Zucchini": "200 g",
+      "Sesam": "20 g",
+      "Zwiebel": "1 Stk",
+      "Knoblauch": "2 Stk",
+      "Tomaten": "100 g"
+    }
+  },
+  {
+    "Rezeptname": "Bowl mit Kichererbsen und Quinoa",
+    "Zubereitung": "Quinoa und Linsen getrennt kochen. Kichererbsen mit Öl und Paprikapulver rösten. Brokkoli blanchieren. Für das Dressing Zitrone, Tahini, Öl, Ahornsirup, Gemüsebrühe, Chilipulver und Zwiebel pürieren. Zutaten mit Erdnüssen und Joghurt anrichten.",
+    "Kalorien": 950,
+    "Fett": 30,
+    "Kohlenhydrate": 120,
+    "Proteine": 45,
+    "Zutaten und Mengen": {
+      "Quinoa": "50 g",
+      "Rote Linsen": "50 g",
+      "Brokkoli": "100 g",
+      "Kichererbsen": "100 g",
+      "Zitronensaft": "2 EL",
+      "Tahini": "1 EL",
+      "Zwiebel": "1 Stk",
+      "Erdnüsse": "20 g",
+      "Griechischer Joghurt": "1 EL"
+    }
+  },
+  {
+    "Rezeptname": "Nudelsalat",
+    "Zubereitung": "Nudeln kochen. Paprika und Zwiebeln würfeln und in Balsamico-Essig 10 Min. ziehen lassen. Tomaten und Knoblauch würfeln. Pinienkerne in der Pfanne rösten. Für das Dressing Essig, Senf, Pesto, Öl und Balsamico-Creme verrühren. Mit Salz und Pfeffer abschmecken. Salat mischen und mit Parmesan bestreuen.",
+    "Kalorien": 900,
+    "Fett": 36,
+    "Kohlenhydrate": 105,
+    "Proteine": 32,
+    "Zutaten und Mengen": {
+      "Vollkornnudeln": "110 g",
+      "Paprika": "1 Stk",
+      "Zwiebel": "1 Stk",
+      "Tomaten": "100 g",
+      "Pinienkerne": "20 g",
+      "Senf": "1 TL",
+      "Pesto": "2 EL",
+      "Parmesan": "30 g"
+    }
+  },
+  {
+    "Rezeptname": "Bowl mit Röst-Rosenkohl",
+    "Zubereitung": "Backofen auf 200 Grad vorheizen. Rosenkohl halbieren. Zwiebel in Spalten schneiden. Alles in einer Schüssel mit Öl, Chiliflocken, Honig, Balsamico, Zitronensaft, Salz und Pfeffer vermegen. Den Rosenkohl damit bestreichen und nach unten zeigend 20 Min. im Ofen rösten. Für das Hummus Bohnen, Knoblauch, Minze, Erbsen, Tahini, Zitronensaft, Wasser, Salz, Pfeffer und Kreuzkümmel pürieren. Walnüsse rösten. Alle Zutaten mit Joghurt servieren.",
+    "Kalorien": 920,
+    "Fett": 38,
+    "Kohlenhydrate": 95,
+    "Proteine": 38,
+    "Zutaten und Mengen": {
+      "Erbsen (TK)": "100 g",
+      "Rosenkohl": "200 g",
+      "Zwiebel": "1 Stk",
+      "Honig": "1 TL",
+      "Balsamico": "1 TL",
+      "Zitronensaft": "1 EL",
+      "Weiße Bohnen": "150 g",
+      "Knoblauch": "1 Stk",
+      "Minze": "10 g",
+      "Tahini": "1.5 EL",
+      "Walnüsse": "25 g",
+      "Griechischer Joghurt": "2 EL"
+    }
+  },
+  {
+    "Rezeptname": "Gemüse-Döner",
+    "Zubereitung": "Knoblauch würfeln und mit Joghurt, Salz und Pfeffer verrühren. Möhren hobeln und mit Pfeffer, Essig und Öl mischen. Zwiebel in Ringe schneiden. Das Innere der Zucchini entfernen, würfeln und anbraten. Fladenbrot in der Pfanne rösten. Alle Zutaten im Fladenbrot anrichten.",
+    "Kalorien": 880,
+    "Fett": 32,
+    "Kohlenhydrate": 105,
+    "Proteine": 38,
+    "Zutaten und Mengen": {
+      "Fladenbrot": "1 Stk",
+      "Knoblauch": "1 Stk",
+      "Möhren": "120 g",
+      "Zwiebel": "1 Stk",
+      "Salat": "50 g",
+      "Tomaten": "100 g",
+      "Zucchini": "120 g",
+      "Feta": "80 g",
+      "Griechischer Joghurt": "2 EL"
+    }
+  },
+  {
+    "Rezeptname": "Quiche mit Spinat",
+    "Zubereitung": "Mengen für 12 Stücke. Mehl, Butter, 1 Ei, 2 EL Wasser und Salz mit dem Knethaken zu Mürbeteig verarbeiten. Zu einer Kugel formen, in Frischhaltefolie wickeln und 30 Min. in den Kühlschrank legen. Spinat und Knoblauch erhitzen, bis der Spinat zusammengefallen ist. Mit Salz, Pfeffer und Muskat würzen. Spinat gut ausdrücken. Teig rund ausrollen und auf dem Boden einer gefetteten Quiche-Form auslegen. Teigboden mit Gabel einstechen und mit Semmelbröseln bestreuen. Tomaten und Spinat gleichmäßig verteilen. Milch, Creme fraiche und 4 Eier verrühren, mit Salz und Pfeffer würzen und auf dem Gemüse verteilen. Mit Käse bestreuen und bei 200 Grad Umluft 40 Min. backen.",
+    "Kalorien": 860,
+    "Fett": 48,
+    "Kohlenhydrate": 55,
+    "Proteine": 40,
+    "Zutaten und Mengen": {
+      "Mehl": "250 g",
+      "Butter": "125 g",
+      "Eier": "5 Stk",
+      "Blattspinat": "250 g",
+      "Tomaten": "150 g",
+      "Milch": "200 ml",
+      "Creme fraiche": "200 g",
+      "Streukäse": "100 g"
+    }
   }
-},
-{
-  "Rezeptname": "Linsen-Dal mit Vollkornreis",
-  "Zubereitung": "Zwiebel, Knoblauch und Ingwer fein hacken. Öl in einem großen Topf erhitzen und Zwiebeln 2–3 Minuten glasig anbraten. Knoblauch, Kreuzkümmel, Kurkuma, Garam Masala, Korianderpulver und Paprikapulver zugeben und etwa 1 Minute anschwitzen. Tomatenmark und rote Linsen einrühren, kurz umrühren und mit Gemüsebrühe ablöschen. 10 Minuten bei mittlerer Hitze köcheln lassen. Dann gehackte Tomaten und Kokosmilch hinzufügen, gut vermengen und weitere 10–15 Minuten köcheln lassen, bis die Linsen weich und cremig sind. Mit Limettensaft und Salz abschmecken. Mit frischem Koriander bestreuen und warm servieren. Vollkornreis nach Packungsanleitung zubereiten und als Beilage dazu reichen.",
-  "Kalorien": 970,
-  "Fett": 28,
-  "Kohlenhydrate": 130,
-  "Proteine": 36,
-  "Zutaten und Mengen": {
-    "Rote Linsen": "150 g",
-    "Zwiebel": "1 Stk",
-    "Knoblauch": "2 Stk",
-    "Kokosöl": "1 EL",
-    "Tomatenmark": "1 EL",
-    "Tomaten (stückig)": "200 g",
-    "Gemüsebrühe": "300 ml",
-    "Kokosmilch": "150 ml",
-    "Limettensaft": "2 EL",
-    "Vollkornreis": "75 g"
-  }
-}
 ]

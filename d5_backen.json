@@ -25,7 +25,7 @@
       "Mehl": "200 g",
       "Backpulver": "1 TL",
       "Eier": "2 Stk",
-      "Sesam": "2 TL"
+      "Sesam": "20 g"
     }
   },
   {
@@ -63,26 +63,6 @@
       "Honig": "1 TL",
       "Erdnussmus": "20 g",
       "Zimt": "1 TL"
-    }
-  },
-  {
-    "Rezeptname": "Quiche mit Spinat und Feta",
-    "Zubereitung": "Für den Teig Mehl, kalte Butter, 1 Ei und eine Prise Salz zu einem festen Teig kneten, in Frischhaltefolie wickeln und 30 Minuten im Kühlschrank ruhen lassen. In der Zwischenzeit Zwiebel und Knoblauch fein hacken, in einer Pfanne mit Butter glasig dünsten. Den frischen Spinat dazugeben, kurz andünsten, mit Salz, Pfeffer und Muskat abschmecken und etwas abkühlen lassen. Den Teig auf einer bemehlten Fläche ausrollen, in eine gefettete Quicheform legen und am Rand hochziehen. Den Boden mit einer Gabel mehrfach einstechen und bei 180 °C für 10 Minuten vorbacken. Für den Guss 3 Eier, Milch, Creme fraiche und Feta verrühren, mit Salz, Pfeffer und Muskat würzen. Spinat gleichmäßig auf dem Boden verteilen, die Eiermischung darübergießen und 30–35 Minuten goldbraun backen. Vor dem Servieren 10 Minuten ruhen lassen.",
-    "Kalorien": 780,
-    "Fett": 52,
-    "Kohlenhydrate": 45,
-    "Proteine": 38,
-    "Zutaten und Mengen": {
-      "Mehl": "200 g",
-      "Butter": "100 g",
-      "Eier": "4 Stk",
-      "Zwiebel": "1 Stk",
-      "Knoblauch": "1 Stk",
-      "Spinat (TK)": "400 g",
-      "Muskatnuss": "1 Prise",
-      "Milch": "100 ml",
-      "Creme fraiche": "100 g",
-      "Feta": "100 g"
     }
   }
 ]
