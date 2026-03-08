@@ -441,5 +441,61 @@
       "Tomatenmark": "1 EL",
       "Vollkornbrot": "2 Scheiben"
     }
+  },
+  {
+    "Rezeptname": "Bowl mit Hähnchen und Tahini-Dressing",
+    "Zubereitung": "Quinoa in Wasser kochen (15 Min.). Süßkartoffel würfeln und bei 200 °C im Ofen rösten (20 Min.). Hähnchenbrustfilet in Streifen schneiden, mit Paprikapulver und Kreuzkümmel würzen und in einer Pfanne von beiden Seiten anbraten (je 4–5 Min.). Für das Dressing Tahini, Zitronensaft, Wasser und etwas Knoblauch verrühren. Rucola auf dem Teller anrichten, Quinoa, Süßkartoffel und Hähnchen daraufgeben, Granatapfelkerne darüberstreuen und Dressing darübergeben.",
+    "Kalorien": 980,
+    "Fett": 30,
+    "Kohlenhydrate": 90,
+    "Proteine": 72,
+    "Zutaten und Mengen": {
+      "Hähnchenbrust": "200 g",
+      "Quinoa": "80 g",
+      "Süßkartoffel": "200 g",
+      "Rucola": "50 g",
+      "Tahini": "1.5 EL",
+      "Granatapfelkerne": "40 g",
+      "Zitronensaft": "1 EL",
+      "Knoblauch": "1 Stk"
+    }
+  },
+  {
+    "Rezeptname": "Nudeln mit Sardinen und Kapern",
+    "Zubereitung": "Vollkornnudeln kochen (10–12 Min.), 50 ml Kochwasser auffangen. Knoblauch und Chili würfeln, in Olivenöl anschwitzen (2 Min.). Kirschtomaten halbieren und mitbraten (3–4 Min.). Sardinen aus der Dose zerteilen und zugeben, kurz erwärmen (2 Min.). Kapern einrühren. Nudeln mit dem Kochwasser zur Sauce geben und alles vermengen. Vom Herd nehmen, Rucola und Zitronenschale unterheben. Mit Parmesan bestreuen.",
+    "Kalorien": 920,
+    "Fett": 34,
+    "Kohlenhydrate": 95,
+    "Proteine": 56,
+    "Zutaten und Mengen": {
+      "Vollkornnudeln": "110 g",
+      "Sardinen": "120 g",
+      "Tomaten": "120 g",
+      "Rucola": "40 g",
+      "Kapern": "1 EL",
+      "Knoblauch": "2 Stk",
+      "Parmesan": "25 g",
+      "Zitronensaft": "1 EL"
+    }
+  },
+    {
+    "Rezeptname": "Hähnchen-Stir-Fry mit Soba-Nudeln",
+    "Zubereitung": "Soba-Nudeln kochen (4–5 Min.), abschrecken. Hähnchenbrustfilet in dünne Streifen schneiden und in Sesamöl scharf anbraten (5–6 Min.). Brokkoli, Möhren und Paprika zugeben und mitbraten (5–6 Min.). Sauce aus Sojasauce, Erdnussmus, Ingwer, Reisessig und etwas Wasser anrühren und zugeben (2 Min.). Nudeln unterheben und alles vermengen. Mit Sesam und Frühlingszwiebeln bestreuen.",
+    "Kalorien": 940,
+    "Fett": 28,
+    "Kohlenhydrate": 85,
+    "Proteine": 68,
+    "Zutaten und Mengen": {
+      "Hähnchenbrust": "180 g",
+      "Soba-Nudeln": "100 g",
+      "Brokkoli": "120 g",
+      "Möhren": "100 g",
+      "Paprika": "1 Stk",
+      "Erdnussmus": "20 g",
+      "Sojasauce": "1.5 EL",
+      "Sesamöl": "1 TL",
+      "Sesam": "10 g",
+      "Frühlingszwiebeln": "2 Stk"
+    }
   }
 ]
