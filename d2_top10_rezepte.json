@@ -65,7 +65,7 @@
       "Möhren": "120 g",
       "Zucchini": "150 g",
       "Brokkoli": "150 g",
-      "Kartoffeln": "100 g",
+      "Kartoffel": "100 g",
       "Paprika": "1 Stk",
       "Zwiebel": "1 Stk"
     }
@@ -112,7 +112,7 @@
     "Proteine": 38,
     "Zutaten und Mengen": {
       "Zwiebel": "1 Stk",
-      "Knoblauch": "1 Zehe",
+      "Knoblauch": "1 Stk",
       "Möhren": "100 g",
       "Kokosöl": "1 EL",
       "Rote Currypaste": "1 TL",
@@ -153,7 +153,7 @@
       "Vollkornnudeln": "100 g",
       "Suppengrün": "200 g",
       "Zwiebel": "1 Stk",
-      "Knoblauch": "2 Zehen",
+      "Knoblauch": "2 Stk",
       "Tomaten (stückig)": "400 g",
       "Tomatenmark": "2 EL"
     }
@@ -244,7 +244,7 @@
       "Oliven": "20 g",
       "Tomaten": "50 g",
       "Zitronensaft": "2 EL",
-      "Knoblauch": "1 Zehe"
+      "Knoblauch": "1 Stk"
     }
   },
   {
@@ -265,7 +265,7 @@
       "Feta": "60 g",
       "Zitronensaft": "2 EL",
       "Senf": "1 TL",
-      "Knoblauch": "1 Zehe"
+      "Knoblauch": "1 Stk"
     }
   },
   {
@@ -281,7 +281,7 @@
       "Zucchini": "200 g",
       "Sesam": "20 g",
       "Zwiebel": "1 Stk",
-      "Knoblauch": "2 Zehen",
+      "Knoblauch": "2 Stk",
       "Tomaten": "100 g"
     }
   },
@@ -338,7 +338,7 @@
       "Balsamico": "1 TL",
       "Zitronensaft": "1 EL",
       "Weiße Bohnen": "200 g",
-      "Knoblauch": "1 Zehe",
+      "Knoblauch": "1 Stk",
       "Minze": "10 g",
       "Tahini": "1.5 EL",
       "Walnüsse": "35 g",
@@ -353,8 +353,8 @@
     "Kohlenhydrate": 110,
     "Proteine": 42,
     "Zutaten und Mengen": {
-      "Vollkorn-Fladenbrot": "1 Stk",
-      "Knoblauch": "1 Zehe",
+      "Fladenbrot": "1 Stk",
+      "Knoblauch": "1 Stk",
       "Möhren": "120 g",
       "Zwiebel": "1 Stk",
       "Salat": "50 g",
@@ -362,7 +362,7 @@
       "Zucchini": "120 g",
       "Feta": "80 g",
       "Griechischer Joghurt": "2 EL",
-      "Hummus": "40 g"
+      "Hummus": "1 EL"
     }
   },
   {
@@ -397,14 +397,14 @@
       "Eier": "3 Stk",
       "Blattspinat": "100 g",
       "Zwiebel": "1 Stk",
-      "Knoblauch": "2 Zehen",
+      "Knoblauch": "2 Stk",
       "Parmesan": "25 g",
       "Butter": "10 g",
       "Walnüsse": "15 g"
     }
   },
   {
-    "Rezeptname": "Räuchermakrele mit Linsen-Rote-Bete-Salat",
+    "Rezeptname": "Salat mit Räuchermakrele und Linsen-Rote-Bete",
     "Zubereitung": "Rote Linsen in Wasser garen (8–10 Min), abgießen und abkühlen lassen. Rote Bete würfeln. Apfel in dünne Scheiben schneiden. Für das Dressing Senf, Meerrettich, Zitronensaft, Olivenöl und Joghurt verrühren. Feldsalat waschen. Alle Zutaten mischen, Dressing darübergeben. Räuchermakrele in Stücke zupfen und obenauf anrichten. Mit Walnüssen bestreuen.",
     "Kalorien": 1016,
     "Fett": 46,
@@ -437,9 +437,9 @@
       "Eier": "3 Stk",
       "Feta": "70 g",
       "Zwiebel": "1 Stk",
-      "Knoblauch": "2 Zehen",
+      "Knoblauch": "2 Stk",
       "Tomatenmark": "1 EL",
-      "Vollkornbrot": "40 g"
+      "Vollkornbrot": "2 Scheiben"
     }
   }
 ]
